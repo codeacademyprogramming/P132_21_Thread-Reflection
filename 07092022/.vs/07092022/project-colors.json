@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e51358a-bdb9-45c4-8ec4-66c96ed5ab5d": {
+      "ProjectGuid": "5e51358a-bdb9-45c4-8ec4-66c96ed5ab5d",
+      "DisplayName": "Homework",
+      "ColorIndex": 0
+    },
+    "c6b40ef7-9b97-4d25-96bf-ad7102c2d7af": {
+      "ProjectGuid": "c6b40ef7-9b97-4d25-96bf-ad7102c2d7af",
+      "DisplayName": "LessonThread",
+      "ColorIndex": 1
+    },
+    "0097fccc-4bc5-482b-aa03-ff3db3ee00a4": {
+      "ProjectGuid": "0097fccc-4bc5-482b-aa03-ff3db3ee00a4",
+      "DisplayName": "ProgressbarApp",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "cc7d0d6b-9b41-46ab-ae05-2dab0800824c": {
+      "ProjectGuid": "cc7d0d6b-9b41-46ab-ae05-2dab0800824c",
+      "DisplayName": "Reflection",
+      "ColorIndex": 3
+    },
+    "ec0049b6-8f75-4519-b44b-82826efb6340": {
+      "ProjectGuid": "ec0049b6-8f75-4519-b44b-82826efb6340",
+      "DisplayName": "LessonReflection",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

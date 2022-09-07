@@ -1,0 +1,13 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\bin\Debug\netcoreapp3.1\LessonReflection.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\LessonReflection\obj\Debug\netcoreapp3.1\LessonReflection.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\bin\Debug\netcoreapp3.1\ProgressbarApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.Form1.resources
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.csproj.GenerateResource.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P132\C#\21. 07-09-2022\07092022\ProgressbarApp\obj\Debug\netcoreapp3.1\ProgressbarApp.genruntimeconfig.cache
